@@ -9,18 +9,10 @@ The goal of this lab was to simulate real-world incident response by:
 - Documenting findings and Lessons Learned
 - Classifying each incident appropriately
 
-## Incident Summaries
-Each incident folder includes:
-- A brief summary of the event
-- Observables and their analysis
-- Screenshots from external tools
-- Final classification and Lessons Learned
-
 ## Tools Used
 - Catalyst (self-hosted on Ubuntu VM)
 - VirusTotal
 - AbuseIPDB
-- Docker & Bash scripting
 
 ## Screenshots
 #### Here's what Catalyst looks like:
