@@ -1,5 +1,5 @@
 # Cat-a-logging Incidents
-This repository documents my work on Lab 6 of Codepath's CYB102 course, which involved using Catalyst to manage and investigate three cybersecurity incidents: phishing, malware, and brute force.
+This project uses Catalyst to manage and investigate three cybersecurity incidents: phishing, malware, and brute force attacks.
 
 ## Overview
 The goal of this lab was to simulate real-world incident response by:
